@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1442631678 source:f:\study\datastructure\code\josephus\circularlinklist.cpp
+	"CircularLinkList.h"
+	"Node.h"
+
+1442633208 f:\study\datastructure\code\josephus\circularlinklist.h
+	<iostream>
+	"List.h"
+	"Node.h"
+
+1442627033 f:\study\datastructure\code\josephus\list.h
+	<iostream>
+
+1442633235 f:\study\datastructure\code\josephus\node.h
+	<iostream>
+
+1442630688 source:f:\study\datastructure\code\josephus\node.cpp
+	"Node.h"
+
+1442628227 f:\study\datastructure\code\josephus\node.cpp
+	"Node.h"
+
+1442633206 source:f:\study\datastructure\code\josephus\josephus.cpp
+	"CircularLinkList.h"
+
+1442629290 f:\study\datastructure\code\josephus\circularlinklist.cpp
+	"CircularLinkList.h"
+

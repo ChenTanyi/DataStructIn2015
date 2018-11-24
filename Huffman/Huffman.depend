@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1446024545 source:f:\study\datastructure\code\huffman\sources\huffmandecode.cpp
+	<iostream>
+	"../Headers/HuffmanTree.h"
+
+1446030337 f:\study\datastructure\code\huffman\headers\huffmantree.h
+	"queue.h"
+	"pair.h"
+
+1446029431 f:\study\datastructure\code\huffman\headers\queue.h
+	"vector.h"
+	"function.h"
+	"heap.h"
+
+1445992083 f:\study\datastructure\code\huffman\headers\vector.h
+	<iostream>
+
+1445951762 f:\study\datastructure\code\huffman\headers\function.h
+
+1446533835 f:\study\datastructure\code\huffman\headers\heap.h
+
+1446029533 f:\study\datastructure\code\huffman\headers\pair.h
+
+1446030548 source:f:\study\datastructure\code\huffman\sources\huffmanencode.cpp
+	<iostream>
+	"../Headers/HuffmanTree.h"
+
+1446030686 source:f:\study\datastructure\code\huffman\sources\main.cpp
+	<iostream>
+	<fstream>
+	"../Headers/HuffmanTree.h"
+

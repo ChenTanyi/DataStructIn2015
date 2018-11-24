@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476497073 source:f:\study\datastructure\code\vector\vector_test.cpp
+	"vector.h"
+	<iostream>
+
+1476497166 f:\study\datastructure\code\vector\vector.h
+	<iostream>
+
+1476496542 source:f:\study\datastructure\code\vector\vector.cpp
+	"vector.h"
+

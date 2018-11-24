@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1447413993 source:f:\study\datastructure\code\bst\sources\exercise1.cpp
+	"../Headers/Exercise1.h"
+
+1447417302 f:\study\datastructure\code\bst\headers\exercise1.h
+	"BST.h"
+	"function.h"
+	"pair.h"
+	<string>
+
+1447416861 f:\study\datastructure\code\bst\headers\bst.h
+	<iostream>
+	"BSTNode.h"
+	"BSTIterator.h"
+	"iterator.h"
+	"pair.h"
+
+1447416274 f:\study\datastructure\code\bst\headers\bstnode.h
+
+1447416348 f:\study\datastructure\code\bst\headers\bstiterator.h
+	"BSTNode.h"
+
+1447416999 f:\study\datastructure\code\bst\headers\iterator.h
+
+1447419641 f:\study\datastructure\code\bst\headers\pair.h
+
+1447326955 f:\study\datastructure\code\bst\headers\function.h
+
